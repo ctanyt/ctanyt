@@ -10,4 +10,4 @@ When I'm taking a break from coding, you can find me exploring the ocean with my
 
 - Currently working on: Fish species recognition for sustainble fishing in Singapore, Recommender system for alcohol and food
 - Reach out for a chat over coffee/beer or to collaborate on any fun projects
-- Find me here! [:envelope:](ctan.yt@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-ctanyt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ctan-yt/)
+- Find me here! [:envelope:](mailto:ctan.yt@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-ctanyt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ctan-yt/)
